@@ -1,0 +1,10 @@
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/bin/Debug/netcoreapp3.1/csharpbasics2.deps.json
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/bin/Debug/netcoreapp3.1/csharpbasics2.runtimeconfig.json
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/bin/Debug/netcoreapp3.1/csharpbasics2.runtimeconfig.dev.json
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/bin/Debug/netcoreapp3.1/csharpbasics2.dll
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/bin/Debug/netcoreapp3.1/csharpbasics2.pdb
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/obj/Debug/netcoreapp3.1/csharpbasics2.csprojAssemblyReference.cache
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/obj/Debug/netcoreapp3.1/csharpbasics2.AssemblyInfoInputs.cache
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/obj/Debug/netcoreapp3.1/csharpbasics2.AssemblyInfo.cs
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/obj/Debug/netcoreapp3.1/csharpbasics2.dll
+/Users/steve/Documents/CodingDojo/csharporm/csharpbasics2/obj/Debug/netcoreapp3.1/csharpbasics2.pdb
